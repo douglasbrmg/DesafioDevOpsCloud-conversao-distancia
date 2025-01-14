@@ -12,6 +12,7 @@ Para executar:
 Ou clone este projeto e build a imagem
 
 `docker build -t <nome-para-da-imagem> .`
+
 `docker run -d -p 8080:5000 <nome-para-da-imagem>`
 
 ##Link da imagem no docker hub
